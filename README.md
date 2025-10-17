@@ -38,7 +38,9 @@ Proven ability to lead architecture transformations, guide teams, and deliver **
 - Enhanced **supplier–network integration** using **CIG** & **Cloud Integration (CPI)**.
 - Involved in **Industry Cloud (ICD)** topics for **Public Sector**, **Utilities**, and **Telco**.  
 - **Enterprise Asset Management (EAM)** and **Supply Chain Management (SCM)**.
-- **Defence Research and Development Organisation (DRDO)** - Satellite data analysis
+- **Real-time systems integrations** - Contactless smartcards, fingerprint sensors, facial recognition.
+- **Defence Research and Development Organisation (DRDO)** - Satellite data analysis.
+- **Hobby Project** with Arduino and RPi
 
 ---
 
