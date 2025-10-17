@@ -35,8 +35,8 @@ Proven ability to lead architecture transformations, guide teams, and deliver **
 
 - **CRM** - Territory Management, Loyalty Management, Org Hierarcies, WECM
 - **Architect for SAP Business Network (SBN)** — driving innovation across **Ariba Network**, **Logistics Business Network (LBN)**, and **Asset Intelligence Network (AIN)**.
-- Enhanced **supplier–network integration** using **CIG** & **Cloud Integration (CPI)**.
-- Involved in **Industry Cloud (ICD)** topics for **Public Sector**, **Utilities**, and **Telco**.  
+- Enhanced **supplier–network integration** using **SAP Cloud Integration (CPI)**.
+- **Industry Cloud (ICD)** projects for **Public Sector**, **HigherEd**, **Utilities**, and **Telco**.  
 - **Enterprise Asset Management (EAM)** and **Supply Chain Management (SCM)**.
 - **Real-time systems integrations** - Contactless smartcards, fingerprint sensors, facial recognition.
 - **Defence Research and Development Organisation (DRDO)** - Satellite data analysis.
